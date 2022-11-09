@@ -8,7 +8,7 @@ Java 11+, Java EE, Spring Framework, Spring Boot, Spring Security, Spring Data, 
 #### Сервис обращается к API NASA https://api.nasa.gov и отдает в ответ картинку.
 ## [Дипломный проект "Облачное хранилище"](https://github.com/ArtJDev/CloudStorage)
 Стек: Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, JUnit, Mockito, Maven, Docker.
-#### Проект предоставляет собой RESTfull сервис для загрузки, скачивания, переименования, удаления и вывода списка загруженных файлов пользователя.
+#### Проект представляет собой REST сервис для загрузки, скачивания, переименования, удаления и вывода списка загруженных файлов пользователя.
 ## [Курсовой проект "Сервис перевода денег"](https://github.com/ArtJDev/Transfer_Money_REST_API)
 Стек: Spring Boot, H2 database, JUnit, Mockito, Testcontainers, Maven, Docker.
 #### Проект предоставляет REST сервис для перевода денег с одной карты на другую.
