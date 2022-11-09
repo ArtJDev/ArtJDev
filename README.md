@@ -19,14 +19,14 @@
 Проект представляет собой приложения для обмена текстовыми сообщениями по сети с помощью консоли (терминала) между двумя и более пользователями.
 ## Сертификаты Нетологии
 - Java разработчик с нуля
-  - [9. Хранение данных и оргиназация безопасности.pdf](https://github.com/ArtJDev/ArtJDev/files/9973274/9.pdf)
-  - [8. Spring Boot, deployment и инфраструктура.pdf](https://github.com/ArtJDev/ArtJDev/files/9973280/8.Spring.Boot.deployment.pdf)
-  - [7. Web, Spring & Spring MVC.pdf](https://github.com/ArtJDev/ArtJDev/files/9973281/7.Web.Spring.Spring.MVC.pdf)
-  - [6. Многопоточное и функциональное программирование.pdf](https://github.com/ArtJDev/ArtJDev/files/9973285/6.pdf)
-  - [5. Шаблоны проектирования.pdf](https://github.com/ArtJDev/ArtJDev/files/9973286/5.pdf)
-  - [4. Java Core.pdf](https://github.com/ArtJDev/ArtJDev/files/9973287/4.Java.Core.pdf)
-  - [3. Git - система контроля версий.pdf](https://github.com/ArtJDev/ArtJDev/files/9973288/3.Git.-.pdf)
-  - [2. Основы JAVA.pdf](https://github.com/ArtJDev/ArtJDev/files/9973289/2.JAVA.pdf)
-  - [1. Английский для программистов.pdf](https://github.com/ArtJDev/ArtJDev/files/9973290/1.pdf)
+  - [Хранение данных и оргиназация безопасности.pdf](https://github.com/ArtJDev/certificates/blob/main/9.%20Хранение%20данных%20и%20оргиназация%20безопасности.pdf)
+  - [Spring Boot, deployment и инфраструктура.pdf](https://github.com/ArtJDev/certificates/blob/main/8.%20Spring%20Boot%2C%20deployment%20и%20инфраструктура.pdf)
+  - [Web, Spring & Spring MVC.pdf](https://github.com/ArtJDev/certificates/blob/main/7.%20Web%2C%20Spring%20%26%20Spring%20MVC.pdf)
+  - [Многопоточное и функциональное программирование.pdf](https://github.com/ArtJDev/certificates/blob/main/6.%20Многопоточное%20и%20функциональное%20программирование.pdf)
+  - [Шаблоны проектирования.pdf](https://github.com/ArtJDev/certificates/blob/main/5.%20Шаблоны%20проектирования.pdf)
+  - [Java Core.pdf](https://github.com/ArtJDev/certificates/blob/main/4.%20Java%20Core.pdf)
+  - [Git - система контроля версий.pdf](https://github.com/ArtJDev/certificates/blob/main/3.%20Git%20-%20система%20контроля%20версий.pdf)
+  - [Основы JAVA.pdf](https://github.com/ArtJDev/certificates/blob/main/2.%20Основы%20JAVA.pdf)
+  - [Английский для программистов.pdf](https://github.com/ArtJDev/certificates/blob/main/1.%20Английский%20для%20программистов.pdf)
 - Введение в SQL и работу с базой данных
-  - [Введение в SQL и работу с базой данных.pdf](https://github.com/ArtJDev/ArtJDev/files/9973295/SQL.pdf)
+  - [Введение в SQL и работу с базой данных.pdf](https://github.com/ArtJDev/certificates/blob/main/Введение%20в%20SQL%20и%20работу%20с%20базой%20данных.pdf)
