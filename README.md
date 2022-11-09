@@ -3,6 +3,9 @@
 ## Мой стек:
 Java 11+, Java EE, Spring Framework, Spring Boot, Spring Security, Spring Data, JDBC, JPA, Hibernate, PostgreSQL, MySQL, JUnit, Mockito, Testcontainers, Maven, Gradle, Docker, Git
 ## Мои проекты:
+## [Кейс (тестовое задание) API NASA](https://github.com/ArtJDev/rest_api_nasa)
+Стек: Spring Boot, OpenFeign
+#### Сервис обращается к API NASA https://api.nasa.gov и отдает в ответ картинку.
 ## [Облачное хранилище](https://github.com/ArtJDev/CloudStorage)
 Стек: Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, JUnit, Mockito, Maven, Docker.
 #### Проект предоставляет собой RESTfull сервис для загрузки, скачивания, переименования, удаления и вывода списка загруженных файлов пользователя.
