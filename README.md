@@ -19,6 +19,7 @@
 Проект представляет собой приложения для обмена текстовыми сообщениями по сети с помощью консоли (терминала) между двумя и более пользователями.
 ## Сертификаты Нетологии
 - Java разработчик с нуля
+  - [Диплом о профессиональной переподготовке](https://github.com/ArtJDev/certificates/blob/main/Диплом.jpg)
   - [Java-разработчик с нуля](https://github.com/ArtJDev/certificates/blob/main/10.%20Java%20разработчик.pdf)
   - [Хранение данных и оргиназация безопасности.pdf](https://github.com/ArtJDev/certificates/blob/main/9.%20Хранение%20данных%20и%20оргиназация%20безопасности.pdf)
   - [Spring Boot, deployment и инфраструктура.pdf](https://github.com/ArtJDev/certificates/blob/main/8.%20Spring%20Boot%2C%20deployment%20и%20инфраструктура.pdf)
