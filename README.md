@@ -1,7 +1,7 @@
 ## Добрый день, я Артем Куриленко, Java, Spring разработчик
 
 ## Мой стек:
-**Java 11+, Java EE, Spring Framework, Spring Boot, Spring Security, Spring Data, JDBC, JPA, Hibernate, PostgreSQL, MySQL, JUnit, Mockito, Testcontainers, Maven, Gradle, Docker, Git**
+**Java 11+, Spring Framework, Spring Boot, Spring Security, Spring Data, JDBC, JPA, Hibernate, PostgreSQL, MySQL, JUnit, Mockito, Testcontainers, Maven, Gradle, Docker, Git**
 ## Мои проекты:
 ### [Кейс (тестовое задание) "API NASA"](https://github.com/ArtJDev/rest_api_nasa)
 **Стек: Spring Boot, OpenFeign**
