@@ -5,20 +5,29 @@
 
 <!-- **Java 11+, Spring Framework, Spring Boot, Spring Security, Spring Data, JDBC, JPA, Hibernate, PostgreSQL, MySQL, JUnit, Mockito, Testcontainers, Maven, Gradle, Docker, Git** -->
 ## Мои проекты:
-### [Кейс (тестовое задание) "API NASA"](https://github.com/ArtJDev/rest_api_nasa)
-**Стек: Spring Boot, OpenFeign**
+### [Кейс "API NASA"](https://github.com/ArtJDev/rest_api_nasa)
+![Spring Boot](https://user-images.githubusercontent.com/98458226/213931957-84a52baa-7747-43b4-80ad-ccefdc88978b.jpg)![OpenFeign](https://user-images.githubusercontent.com/98458226/213932108-7091e6ca-7564-4aaa-a4cb-07fcacaab3a5.jpg)![Maven](https://user-images.githubusercontent.com/98458226/213932487-41d48e61-c519-4b64-92dd-9141ed088524.jpg)
 
 Сервис обращается к API NASA https://api.nasa.gov и отдает в ответ картинку.
+##
+
 ### [Дипломный проект "Облачное хранилище"](https://github.com/ArtJDev/CloudStorage)
-**Стек: Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, JUnit, Mockito, Maven, Docker.**
+![Spring Boot](https://user-images.githubusercontent.com/98458226/213932218-209e81ee-74c0-4037-9c48-418325c07c2c.jpg)![Spring Security](https://user-images.githubusercontent.com/98458226/213932296-a55c56bf-8b93-4e48-8898-81c958449044.jpg)![JWT](https://user-images.githubusercontent.com/98458226/213932439-10840453-b421-4a59-96f8-b023764fb7b9.jpg)![Spring Data](https://user-images.githubusercontent.com/98458226/213932227-adfffaf6-d821-4d8f-bfb9-dbe89935a50c.jpg)![PostgreSQL](https://user-images.githubusercontent.com/98458226/213932233-a9029960-aa32-4d99-9487-b4de067365ee.jpg)![Junit](https://user-images.githubusercontent.com/98458226/213932243-68240735-75e3-4b37-b209-695b521c5a33.jpg)![Mockito](https://user-images.githubusercontent.com/98458226/213932252-ec3578a4-c49c-4197-b672-86bc2aecce10.jpg)![Maven](https://user-images.githubusercontent.com/98458226/213932262-ea961c79-1d8c-42d7-93fc-60c4403c8b7a.jpg)![Docker](https://user-images.githubusercontent.com/98458226/213932268-08ea4eca-593b-499b-95ae-0e894c5a9161.jpg)
 
 Проект представляет собой REST сервис для загрузки, скачивания, переименования, удаления и вывода списка загруженных файлов пользователя.
+##
+
 ### [Курсовой проект "Сервис перевода денег"](https://github.com/ArtJDev/Transfer_Money_REST_API)
-**Стек: Spring Boot, H2 database, JUnit, Mockito, Testcontainers, Maven, Docker.**
+![Spring Boot](https://user-images.githubusercontent.com/98458226/213932582-a91b94ba-9eca-4841-8ee7-060b98244701.jpg)![H2](https://user-images.githubusercontent.com/98458226/213932590-94d464c8-d719-4712-949a-1b05d08ba03f.png)![Junit](https://user-images.githubusercontent.com/98458226/213932594-38c924b8-a6c2-4386-acd3-f115e76fe470.jpg)![Mockito](https://user-images.githubusercontent.com/98458226/213932597-1fbcf3a6-245d-468d-a4fb-7b20177c59f8.jpg)![Testcontainers](https://user-images.githubusercontent.com/98458226/213932620-408dd7f7-ab35-4cba-acc3-64f483ecea60.jpg)![Maven](https://user-images.githubusercontent.com/98458226/213932697-d954e3d3-af8d-45f3-b9bb-2d730b143361.jpg)![Docker](https://user-images.githubusercontent.com/98458226/213932631-d5c9d285-6904-4fed-98ac-c2e154637e0d.jpg)
 
 Проект предоставляет REST сервис для перевода денег с одной карты на другую.
+##
 ### [Курсовой проект "Сетевой чат"](https://github.com/ArtJDev/OnlineChat)
+
+![Java](https://user-images.githubusercontent.com/98458226/213932903-011d8eb0-3114-4300-96e7-0cb756dfd295.jpg)
+
 Проект представляет собой приложения для обмена текстовыми сообщениями по сети с помощью консоли (терминала) между двумя и более пользователями.
+##
 ## Сертификаты Нетологии
 - Java разработчик с нуля
   - [Диплом о профессиональной переподготовке](https://github.com/ArtJDev/certificates/blob/main/Диплом.jpg)
