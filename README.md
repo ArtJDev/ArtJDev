@@ -5,6 +5,12 @@
 
 <!-- **Java 11+, Spring Framework, Spring Boot, Spring Security, Spring Data, JDBC, JPA, Hibernate, PostgreSQL, MySQL, JUnit, Mockito, Testcontainers, Maven, Gradle, Docker, Git** -->
 ## Мои проекты:
+### [1. Микросервис "Product-Service"](https://github.com/ArtJDev/product-service)
+![Spring Boot](https://user-images.githubusercontent.com/98458226/214038275-4519a8e1-fa54-4794-82b8-47a0d044dac2.jpg)![Spring Cloud](https://user-images.githubusercontent.com/98458226/214038299-e011421a-8a49-49d4-bc7f-e7e74d71e4e1.jpg)![Spring WebFlux](https://user-images.githubusercontent.com/98458226/214038335-f0bf49bb-25e2-4580-9ce9-9066626de095.jpg)![Spring Data JDBC](https://user-images.githubusercontent.com/98458226/214038382-edaba164-1b86-4ae7-8f4c-70f29c6357b3.jpg)![PostgreSQL](https://user-images.githubusercontent.com/98458226/214038421-ae61d798-132c-48c4-8582-bfdacd9f71b4.jpg)![Flyway](https://user-images.githubusercontent.com/98458226/214038507-c6b90a1d-887c-4aed-8d4b-d785434c7271.jpg)![Junit](https://user-images.githubusercontent.com/98458226/214038553-290c2aa5-4940-4a1e-8506-eb9f15b6c801.jpg)![Mockito](https://user-images.githubusercontent.com/98458226/214038572-9366dfad-280e-41d8-8b7b-414388ad3ac8.jpg)![Testcontainers](https://user-images.githubusercontent.com/98458226/214038613-7d0278e9-d64f-4064-94e9-ad63e0699afc.jpg)![Gradle](https://user-images.githubusercontent.com/98458226/214038789-f179f317-1827-441b-a62b-cdeaccdd8210.jpg)
+
+Сервис для управления каталогом книг интернет магазина ITBooks
+##
+
 ### [Кейс "API NASA"](https://github.com/ArtJDev/rest_api_nasa)
 ![Spring Boot](https://user-images.githubusercontent.com/98458226/213931957-84a52baa-7747-43b4-80ad-ccefdc88978b.jpg)![OpenFeign](https://user-images.githubusercontent.com/98458226/213932108-7091e6ca-7564-4aaa-a4cb-07fcacaab3a5.jpg)![Maven](https://user-images.githubusercontent.com/98458226/213932487-41d48e61-c519-4b64-92dd-9141ed088524.jpg)
 
