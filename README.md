@@ -6,6 +6,12 @@
 
 <!-- **Java 11+, Spring Framework, Spring Boot, Spring Security, Spring Data, JDBC, JPA, Hibernate, PostgreSQL, MySQL, JUnit, Mockito, Testcontainers, Maven, Gradle, Docker, Git** -->
 ## Мои проекты:
+### [2. Сервис "Config-Service"](https://github.com/ArtJDev/config-service)
+![Java 17](https://user-images.githubusercontent.com/98458226/214134376-3e84e1c3-6377-4a3d-bc64-f6f0517238e4.jpg)![Spring Boot 3 0](https://user-images.githubusercontent.com/98458226/214134416-52658f96-164c-4e76-9347-ee5ba9605bba.jpg)![Spring Cloud](https://user-images.githubusercontent.com/98458226/214134464-7db9ec69-7bf6-4f09-814f-7e63a6890893.jpg)![Gradle](https://user-images.githubusercontent.com/98458226/214134844-6e346d53-cb2e-48c6-9ba7-8692bf81b567.jpg)
+
+Сервер конфигурации микросервиса [Product-Service](https://github.com/ArtJDev/product-service)
+##
+
 ### [1. Микросервис "Product-Service"](https://github.com/ArtJDev/product-service)
 ![Java 17](https://user-images.githubusercontent.com/98458226/214115081-d8d97202-7099-4060-a756-5342d3a012e0.jpg)![Spring Boot 3 0](https://user-images.githubusercontent.com/98458226/214115164-ed14c5e2-fd8f-4d01-a664-cc36d6a122c9.jpg)![Spring Cloud](https://user-images.githubusercontent.com/98458226/214038299-e011421a-8a49-49d4-bc7f-e7e74d71e4e1.jpg)![Spring WebFlux](https://user-images.githubusercontent.com/98458226/214038335-f0bf49bb-25e2-4580-9ce9-9066626de095.jpg)![Spring Data JDBC](https://user-images.githubusercontent.com/98458226/214038382-edaba164-1b86-4ae7-8f4c-70f29c6357b3.jpg)![PostgreSQL](https://user-images.githubusercontent.com/98458226/214038421-ae61d798-132c-48c4-8582-bfdacd9f71b4.jpg)![Flyway](https://user-images.githubusercontent.com/98458226/214038507-c6b90a1d-887c-4aed-8d4b-d785434c7271.jpg)![Junit](https://user-images.githubusercontent.com/98458226/214038553-290c2aa5-4940-4a1e-8506-eb9f15b6c801.jpg)![Mockito](https://user-images.githubusercontent.com/98458226/214038572-9366dfad-280e-41d8-8b7b-414388ad3ac8.jpg)![Testcontainers](https://user-images.githubusercontent.com/98458226/214038613-7d0278e9-d64f-4064-94e9-ad63e0699afc.jpg)![Gradle](https://user-images.githubusercontent.com/98458226/214038789-f179f317-1827-441b-a62b-cdeaccdd8210.jpg)![Docker](https://user-images.githubusercontent.com/98458226/214114887-cf0b273a-04b0-4bfd-a9c0-4fe98553481d.jpg)
 
