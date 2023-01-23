@@ -6,6 +6,12 @@
 
 <!-- **Java 11+, Spring Framework, Spring Boot, Spring Security, Spring Data, JDBC, JPA, Hibernate, PostgreSQL, MySQL, JUnit, Mockito, Testcontainers, Maven, Gradle, Docker, Git** -->
 ## Мои проекты:
+### [3. Микросервис "Order-Service"](https://github.com/ArtJDev/order-service)
+![Java 17](https://user-images.githubusercontent.com/98458226/214136319-383c1ac6-bc48-4241-a6a8-83f43cf4cc5e.jpg)![Spring Boot 3 0](https://user-images.githubusercontent.com/98458226/214136347-8f1050fc-aa5d-4ffe-bdf3-cb5f082c96be.jpg)![Spring WebFlux](https://user-images.githubusercontent.com/98458226/214136424-04ba2acf-93c0-4666-9e29-c09d48d82407.jpg)![Spring Data JDBC](https://user-images.githubusercontent.com/98458226/214136475-da332dc2-5b6f-4ee5-895b-f9385d968728.jpg)![R2DBC](https://user-images.githubusercontent.com/98458226/214136516-17b149fd-e5fd-488c-a168-7ab98715301e.jpg)![PostgreSQL](https://user-images.githubusercontent.com/98458226/214136588-a0c97232-b1d6-4517-a698-c7af29aaf0f9.jpg)![Flyway](https://user-images.githubusercontent.com/98458226/214136622-e3045efd-1cf1-4e5b-8390-13cc52f6017a.jpg)![Junit](https://user-images.githubusercontent.com/98458226/214136668-f0536f52-4356-4fb8-b7b7-f57ea12e1112.jpg)![Mockito](https://user-images.githubusercontent.com/98458226/214136700-1bab3f6a-c29b-4316-a8c1-f36fc726efca.jpg)![Testcontainers](https://user-images.githubusercontent.com/98458226/214136747-8a4bce38-9c69-42be-b8dd-e69c6e980619.jpg)![Gradle](https://user-images.githubusercontent.com/98458226/214136777-b5791272-075a-4b2a-a9b0-88d4546fd9d5.jpg)![Docker](https://user-images.githubusercontent.com/98458226/214136812-fb07f007-dd5a-4cc0-9ba8-0b3953a4f02b.jpg)
+
+Сервис для оформления заказа из интернет магазина ITBooks
+##
+
 ### [2. Сервис "Config-Service"](https://github.com/ArtJDev/config-service)
 ![Java 17](https://user-images.githubusercontent.com/98458226/214134376-3e84e1c3-6377-4a3d-bc64-f6f0517238e4.jpg)![Spring Boot 3 0](https://user-images.githubusercontent.com/98458226/214134416-52658f96-164c-4e76-9347-ee5ba9605bba.jpg)![Spring Cloud](https://user-images.githubusercontent.com/98458226/214134464-7db9ec69-7bf6-4f09-814f-7e63a6890893.jpg)![Gradle](https://user-images.githubusercontent.com/98458226/214134844-6e346d53-cb2e-48c6-9ba7-8692bf81b567.jpg)
 
