@@ -13,7 +13,7 @@
 </div>
 
 <!-- **Java 11+, Spring Framework, Spring Boot, Spring Security, Spring Data, JDBC, JPA, Hibernate, PostgreSQL, MySQL, JUnit, Mockito, Testcontainers, Maven, Gradle, Docker, Git** -->
-## :page_facing_up: Мои проекты:
+## :clipboard: Мои проекты:
 ### [4. Сервис "Edge-Service"](https://github.com/ArtJDev/edge-service)
 ![Java17](https://user-images.githubusercontent.com/98458226/214269093-fb919a9a-f701-4f7b-8e3a-988ea187a62f.jpg)![Spring Boot 3 0](https://user-images.githubusercontent.com/98458226/214269252-48d7e6bb-fc53-4294-a010-6b9e6e72e4ab.jpg)![Spring Cloud](https://user-images.githubusercontent.com/98458226/214269381-b0f95b7a-f02e-448d-a89f-e9bcf70fa038.jpg)![Resilence4J](https://user-images.githubusercontent.com/98458226/214269435-6226f946-a835-45df-bcb7-3726832f4a3e.jpg)![Redis](https://user-images.githubusercontent.com/98458226/214269492-c5914348-fee4-4bbf-9e22-2cb1d374a113.jpg)![Testcontainers](https://user-images.githubusercontent.com/98458226/214269509-e5ed7698-6cef-48ed-a2cb-64ebf3c1154f.jpg)![Gradle](https://user-images.githubusercontent.com/98458226/214269542-7d7ed356-44f4-46d4-a6af-c1496df4054f.jpg)![Docker](https://user-images.githubusercontent.com/98458226/214269651-f6449fcc-7d85-4b5e-bac4-078b1cf1eba3.jpg)
 
@@ -61,7 +61,7 @@
 
 Проект представляет собой приложения для обмена текстовыми сообщениями по сети с помощью консоли (терминала) между двумя и более пользователями.
 ##
-## Сертификаты Нетологии
+## :scroll: Сертификаты Нетологии
 - Java разработчик с нуля
   - [Диплом о профессиональной переподготовке](https://github.com/ArtJDev/certificates/blob/main/Диплом.jpg)
   - [Java-разработчик с нуля](https://github.com/ArtJDev/certificates/blob/main/10.%20Java%20разработчик.pdf)
