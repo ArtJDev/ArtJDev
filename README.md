@@ -79,15 +79,14 @@
 
 ## :fire: Моя статистика:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtJDev&theme=vision-friendly-dark&locale=ru&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtJDev&layout=compact&theme=vision-friendly-dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtJDev&show_icons=true&theme=vision-friendly-dark&locale=ru)
-
-<a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ArtJDev&theme=vision-friendly-dark&locale=ru&mode=weekly" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArtJDev&show_icons=true&theme=vision-friendly-dark&locale=ru" />
-</a>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ArtJDev&theme=vision-friendly-dark&locale=ru&mode=weekly" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArtJDev&show_icons=true&theme=vision-friendly-dark&locale=ru" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtJDev&layout=compact&theme=vision-friendly-dark&locale=ru" />
+  </a>
+</div>
