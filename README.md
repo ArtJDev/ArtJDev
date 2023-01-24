@@ -2,7 +2,7 @@
 
 ## Мой стек:
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/98458226/214287879-934324f1-2216-498d-9181-46ecc9e934dd.png" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/98458226/214290338-9ce27758-ad0c-4941-92ef-800e2843e01a.png" width="500" height="300"/>
   <img src="https://user-images.githubusercontent.com/98458226/214273900-b8fd0328-bb63-4d42-a823-516bb23cc960.gif" width="400" height="300"/>
 </div>
 
