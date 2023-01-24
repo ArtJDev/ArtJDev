@@ -76,3 +76,9 @@
   - [Английский для программистов.pdf](https://github.com/ArtJDev/certificates/blob/main/1.%20Английский%20для%20программистов.pdf)
 - Введение в SQL и работу с базой данных
   - [Введение в SQL и работу с базой данных.pdf](https://github.com/ArtJDev/certificates/blob/main/Введение%20в%20SQL%20и%20работу%20с%20базой%20данных.pdf)
+
+##:fire: Моя статистика:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtJDev&theme=dark&locale=ru&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtJDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
