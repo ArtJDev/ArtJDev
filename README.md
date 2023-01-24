@@ -83,10 +83,10 @@
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=ArtJDev&theme=vision-friendly-dark&locale=ru&mode=weekly" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArtJDev&show_icons=true&theme=vision-friendly-dark&locale=ru" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtJDev&layout=compact&theme=vision-friendly-dark&locale=ru" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtJDev&layout=compact&theme=vision-friendly-dark&locale=ru" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ArtJDev&show_icons=true&theme=vision-friendly-dark&locale=ru" />
   </a>
 </div>
