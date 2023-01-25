@@ -19,7 +19,7 @@
 
 Сервис API Gateway для микросервисов [Product-Service](https://github.com/ArtJDev/product-service) и [Order-Service](https://github.com/ArtJDev/order-service)
 ##
-### [3. Микросервис "Order-Service"](https://github.com/ArtJDev/order-service)
+### [3. Сервис "Order-Service"](https://github.com/ArtJDev/order-service)
 ![Java 17](https://user-images.githubusercontent.com/98458226/214136319-383c1ac6-bc48-4241-a6a8-83f43cf4cc5e.jpg)![Spring Boot 3 0](https://user-images.githubusercontent.com/98458226/214136347-8f1050fc-aa5d-4ffe-bdf3-cb5f082c96be.jpg)![Spring WebFlux](https://user-images.githubusercontent.com/98458226/214136424-04ba2acf-93c0-4666-9e29-c09d48d82407.jpg)![Spring Data JDBC](https://user-images.githubusercontent.com/98458226/214136475-da332dc2-5b6f-4ee5-895b-f9385d968728.jpg)![R2DBC](https://user-images.githubusercontent.com/98458226/214136516-17b149fd-e5fd-488c-a168-7ab98715301e.jpg)![PostgreSQL](https://user-images.githubusercontent.com/98458226/214136588-a0c97232-b1d6-4517-a698-c7af29aaf0f9.jpg)![Flyway](https://user-images.githubusercontent.com/98458226/214136622-e3045efd-1cf1-4e5b-8390-13cc52f6017a.jpg)![Junit](https://user-images.githubusercontent.com/98458226/214136668-f0536f52-4356-4fb8-b7b7-f57ea12e1112.jpg)![Mockito](https://user-images.githubusercontent.com/98458226/214136700-1bab3f6a-c29b-4316-a8c1-f36fc726efca.jpg)![Testcontainers](https://user-images.githubusercontent.com/98458226/214136747-8a4bce38-9c69-42be-b8dd-e69c6e980619.jpg)![Gradle](https://user-images.githubusercontent.com/98458226/214136777-b5791272-075a-4b2a-a9b0-88d4546fd9d5.jpg)![Docker](https://user-images.githubusercontent.com/98458226/214136812-fb07f007-dd5a-4cc0-9ba8-0b3953a4f02b.jpg)
 
 Сервис для оформления заказа из интернет магазина ITBooks
@@ -31,7 +31,7 @@
 Сервер конфигурации микросервиса [Product-Service](https://github.com/ArtJDev/product-service)
 ##
 
-### [1. Микросервис "Product-Service"](https://github.com/ArtJDev/product-service)
+### [1. Сервис "Product-Service"](https://github.com/ArtJDev/product-service)
 ![Java 17](https://user-images.githubusercontent.com/98458226/214115081-d8d97202-7099-4060-a756-5342d3a012e0.jpg)![Spring Boot 3 0](https://user-images.githubusercontent.com/98458226/214115164-ed14c5e2-fd8f-4d01-a664-cc36d6a122c9.jpg)![Spring Cloud](https://user-images.githubusercontent.com/98458226/214038299-e011421a-8a49-49d4-bc7f-e7e74d71e4e1.jpg)![Spring WebFlux](https://user-images.githubusercontent.com/98458226/214038335-f0bf49bb-25e2-4580-9ce9-9066626de095.jpg)![Spring Data JDBC](https://user-images.githubusercontent.com/98458226/214038382-edaba164-1b86-4ae7-8f4c-70f29c6357b3.jpg)![PostgreSQL](https://user-images.githubusercontent.com/98458226/214038421-ae61d798-132c-48c4-8582-bfdacd9f71b4.jpg)![Flyway](https://user-images.githubusercontent.com/98458226/214038507-c6b90a1d-887c-4aed-8d4b-d785434c7271.jpg)![Junit](https://user-images.githubusercontent.com/98458226/214038553-290c2aa5-4940-4a1e-8506-eb9f15b6c801.jpg)![Mockito](https://user-images.githubusercontent.com/98458226/214038572-9366dfad-280e-41d8-8b7b-414388ad3ac8.jpg)![Testcontainers](https://user-images.githubusercontent.com/98458226/214038613-7d0278e9-d64f-4064-94e9-ad63e0699afc.jpg)![Gradle](https://user-images.githubusercontent.com/98458226/214038789-f179f317-1827-441b-a62b-cdeaccdd8210.jpg)![Docker](https://user-images.githubusercontent.com/98458226/214114887-cf0b273a-04b0-4bfd-a9c0-4fe98553481d.jpg)
 
 Сервис для управления каталогом книг интернет магазина ITBooks
