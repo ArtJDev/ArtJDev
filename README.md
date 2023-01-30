@@ -8,12 +8,18 @@
 
 ## :hammer_and_wrench: Мой стек:
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/98458226/214291748-5cddd54e-c317-4b79-9bf1-7530ce336cbf.png" width="400" height="300"/>
+  <img src="https://user-images.githubusercontent.com/98458226/215422436-7a618bcc-e5f3-4dc6-9df8-ba507dfa1859.png" width="400" height="300"/>
   <img src="https://user-images.githubusercontent.com/98458226/214273900-b8fd0328-bb63-4d42-a823-516bb23cc960.gif" width="400" height="300"/>
 </div>
 
 <!-- **Java 11+, Spring Framework, Spring Boot, Spring Security, Spring Data, JDBC, JPA, Hibernate, PostgreSQL, MySQL, JUnit, Mockito, Testcontainers, Maven, Gradle, Docker, Git** -->
 ## :clipboard: Мои проекты:
+### [5. Сервис "Dispatcher-Service"](https://github.com/ArtJDev/dispatcher-service)
+![Java17](https://user-images.githubusercontent.com/98458226/214269093-fb919a9a-f701-4f7b-8e3a-988ea187a62f.jpg)![Spring WebFlux](https://user-images.githubusercontent.com/98458226/215427510-29f9c525-01bc-4f8a-8201-ec471e024731.jpg)![Spring Cloud Function](https://user-images.githubusercontent.com/98458226/215423577-d3347bce-f7e7-4aec-aa84-11cc906aa4a7.jpg)![Spring Cloud Stream](https://user-images.githubusercontent.com/98458226/215423596-78dcb1d9-f257-410e-98b3-8ee66af41b2b.jpg)![RabbitMQ](https://user-images.githubusercontent.com/98458226/215423617-94255fdc-e414-43e9-92ad-7eb0cd396e39.jpg)![Gradle](https://user-images.githubusercontent.com/98458226/215427759-7d1e7d88-f848-4908-9fe2-e005b385d442.jpg)![Docker](https://user-images.githubusercontent.com/98458226/215427787-2f59fb1e-8dc6-4041-bdec-733a4f25c34d.jpg)
+
+Сервис для упаковки и отправки заказов из интернет магазина ITBooks
+##
+
 ### [4. Сервис "Edge-Service"](https://github.com/ArtJDev/edge-service)
 ![Java17](https://user-images.githubusercontent.com/98458226/214269093-fb919a9a-f701-4f7b-8e3a-988ea187a62f.jpg)![Spring Boot 3 0](https://user-images.githubusercontent.com/98458226/214269252-48d7e6bb-fc53-4294-a010-6b9e6e72e4ab.jpg)![Spring Cloud](https://user-images.githubusercontent.com/98458226/214269381-b0f95b7a-f02e-448d-a89f-e9bcf70fa038.jpg)![Resilence4J](https://user-images.githubusercontent.com/98458226/214269435-6226f946-a835-45df-bcb7-3726832f4a3e.jpg)![Redis](https://user-images.githubusercontent.com/98458226/214269492-c5914348-fee4-4bbf-9e22-2cb1d374a113.jpg)![Testcontainers](https://user-images.githubusercontent.com/98458226/214269509-e5ed7698-6cef-48ed-a2cb-64ebf3c1154f.jpg)![Gradle](https://user-images.githubusercontent.com/98458226/214269542-7d7ed356-44f4-46d4-a6af-c1496df4054f.jpg)![Docker](https://user-images.githubusercontent.com/98458226/214269651-f6449fcc-7d85-4b5e-bac4-078b1cf1eba3.jpg)
 
